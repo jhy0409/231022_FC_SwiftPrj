@@ -1,7 +1,7 @@
 import Foundation
 
 var value = 0
-assert(value == 0) // 디버깅 중 조건 검증위해 사용 
+assert(value == 0) // 디버깅 중 조건 검증위해 사용
 
 //value = 2
 //assert(value == 0, "값이 0이 아닙니다.") // -> false일 때 에러발생 및 중지
